@@ -57,3 +57,13 @@ Log into the VM via Remote Desktop. Once Window's is done booting, go to the web
 <img src="https://i.imgur.com/X19xJQN.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <p>
 <br>
+<h2>Step 2.</h2>
+
+**Download and Install a VPN Client**
+<p>
+Select a VPN client that you would like to download and install, there are many options to choose from. For this example I will be using Proton VPN, which has a free version available here (https://protonvpn.com/). Once downloaded open the app and sign in. 
+<p>
+<p>
+<img src="https://i.imgur.com/IPUb2fV.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<p>
+<br>
