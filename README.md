@@ -44,4 +44,16 @@ For this tutorial we will be demonstrating the VPN connection within a Virtual M
 <p>
 <img src="https://i.imgur.com/nVwElfM.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/8y5iyce.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<p>
+<br>
+<h2>Step 2.</h2>
 
+**Log in and Check your IP Address**
+<p>
+Log into the VM via Remote Desktop. Once Window's is done booting, go to the web browser and go to this website (www.whatismyipaddress.com). This will show you the actual IP Address and Region that was created for the VM. Next try going to (google.com), and notice the native language of the region is displayed. 
+<p>
+<p>
+<img src="https://i.imgur.com/QvpRM8Q.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/X19xJQN.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<p>
+<br>
