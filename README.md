@@ -39,7 +39,7 @@ For the example below I will create a Virtual Machine in Microsoft Azure and ass
 
 **Create a Virtual Machine in Azure**
 <p>
-For this tutorial we will be demonstrating the VPN connection within a Virtual Machine (click here for a Virtual Machine tutorial). Select a region outside of where you are located, in this example I've chosen Japan. Take note of the Public IP Address and Location on the VM overview page.
+For this tutorial we will be demonstrating the VPN connection within a Virtual Machine (click here for a VM tutorial (https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking). Select a region outside of where you are located, in this example I've chosen Japan. Take note of the Public IP Address and Location on the VM overview page.
 <p>
 <p>
 <img src="https://i.imgur.com/nVwElfM.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
