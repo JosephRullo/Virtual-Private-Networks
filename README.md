@@ -90,3 +90,15 @@ Now that we've established a VPN connection, let's go back to the web browser an
 <img src="https://i.imgur.com/PtTM2Hb.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <br>
+<h2>Step 6.</h2>
+
+**Switch VPN Servers**
+<p>
+Let's try switching VPN servers to demonstrate changing locations once more. Go back to the VPN client and dissconnect it. Choose another region, in this case the U.S. and click connect.
+<p>
+<p>
+<img src="https://i.imgur.com/Pztfnzb.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/Yrh9BzT.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JdCAroM.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+<br>
