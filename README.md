@@ -57,7 +57,7 @@ Log into the VM via Remote Desktop. Once Window's is done booting, go to the web
 <img src="https://i.imgur.com/X19xJQN.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <p>
 <br>
-<h2>Step 2.</h2>
+<h2>Step 3.</h2>
 
 **Download and Install a VPN Client**
 <p>
@@ -65,5 +65,17 @@ Select a VPN client that you would like to download and install, there are many 
 <p>
 <p>
 <img src="https://i.imgur.com/IPUb2fV.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<p>
+<br>
+<h2>Step 4.</h2>
+
+**Select a VPN Connection**
+<p>
+Once signed in, you will be brought to a screen showing your current IP Address and status. This is where you can choose where you would like to establish the VPN server. For this example I will choose the Netherlands. Select the country and click connect. Once the connection is established, observe the changes on the VPN status screen.
+<p>
+<p>
+<img src="https://i.imgur.com/yPCYU0t.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/RwZW2gk.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3HGzqQH.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <br>
