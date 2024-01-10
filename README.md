@@ -31,6 +31,9 @@
   
 <h1>Implementation</h1>
 <br>
-<h2>Step 1. Create a Virtual Machine in Azure </h2>
+<h2>Step 1.</h2>
 
+**Create a Virtual Machine in Azure**
+<p>
+For this tutorial we will be demonstrating the VPN connection within a Virtual Machine. Once fi
 
