@@ -29,8 +29,9 @@
 <br>
 <br>
 For the example below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change the IP address and view yet anoter regions local content as if it physcially located there. The diagram below will illustrate this.
-
-<img src="https://i.imgur.com/Gepl8Q5.jpg" alt="Microsoft Active Directory Logo"/>
+<p>
+<p>
+<img src="https://i.imgur.com/NdcDaMC.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
   
 <h1>Implementation</h1>
 <br>
@@ -38,5 +39,9 @@ For the example below I will create a Virtual Machine in Microsoft Azure and ass
 
 **Create a Virtual Machine in Azure**
 <p>
-For this tutorial we will be demonstrating the VPN connection within a Virtual Machine. Once fi
+For this tutorial we will be demonstrating the VPN connection within a Virtual Machine (click here for a Virtual Machine tutorial). Select a region outside of where you are located, in this example I've chosen Japan. Take note of the Public IP Address and Location on the VM overview page.
+<p>
+<p>
+<img src="https://i.imgur.com/nVwElfM.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/8y5iyce.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 
