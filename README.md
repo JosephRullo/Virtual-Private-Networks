@@ -3,7 +3,7 @@
 </p>
 
 <h1> <p align="center"> Virtual Private Network Connections</h1>
-<p align="center"> This tutorial outlines the implementation and connection of Virtual Private Networks and how they affect our IP address'.<br />
+<p align="center"> This tutorial outlines the implementation and connection to Virtual Private Networks and how they affect your IP address.<br />
 <br />
 <br />
 <br />
