@@ -22,12 +22,15 @@
 <p>
 <p>
 <br> 
-<h2>Let's briefly describe how do Virtual Private Networks work</h2> A VPN is a tool that allows you to access the internet securely wherever you are. It works by creating a secure “tunnel” between your device and your VPN provider, and it protects you in two key ways. 
+<h2>Let's briefly describe how Virtual Private Networks work</h2> A VPN is a tool that allows you to access the internet securely wherever you are. It works by creating a secure “tunnel” between your device and your VPN provider, and it protects you in two key ways. 
 <p>  
 <p>  1. Concealing your IP address, protecting your identity and location 
 <p>  2. Encrypting your traffic between you and your VPN provider so that no one on your local network can decipher or modify it.
 <br>
 <br>
+For the example below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change the IP address and view yet anoter regions local content as if it physcially located there. The diagram below will illustrate this.
+
+<img src="https://i.imgur.com/Gepl8Q5.jpg" alt="Microsoft Active Directory Logo"/>
   
 <h1>Implementation</h1>
 <br>
