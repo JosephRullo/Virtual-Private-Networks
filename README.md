@@ -3,7 +3,7 @@
 </p>
 
 <h1> <p align="center"> Virtual Private Network Connections</h1>
-<p align="center"> This tutorial outlines the implementation and connection to Virtual Private Networks and how they affect your IP address.<br />
+<p align="center"> This tutorial outlines the implementation and connection to Virtual Private Networks and how it affects IP addresses.<br />
 <br />
 <br />
 <br />
@@ -106,10 +106,12 @@ Let's try switching VPN servers to demonstrate changing locations once more. Go 
 
 **Check Web IP again**
 <p>
-Once again go back to the web and check both websites to verify the change. This concludes the Virtual Private Network demonstration, thanks for viewing.
+Once again go back to the web and check both websites to verify the change.
 <p>
 <p>
 <img src="https://i.imgur.com/6vDH9er.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/o1d7ik0.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <br>
+
+<h2> <p align="center"> This concludes the Virtual Private Network demonstration, thanks for viewing.</h2>
