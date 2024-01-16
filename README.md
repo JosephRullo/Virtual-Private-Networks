@@ -26,7 +26,8 @@
 <p>  
 <p>  1. Concealing your IP address, protecting your identity and location 
 <p>  2. Encrypting your traffic between you and your VPN provider so that no one on your local network can decipher or modify it.
-<br>
+<p> Businesses also use remote access VPNs to establish a secure connection between their network and the devices used by remote workers. Once connected, employees are able to access the resources on the network just as if their devices were physically plugged in at the office.
+<br>  
 <br>
 For the example below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change the IP address and view yet anoter regions local content as if it physcially located there. The diagram below will illustrate this.
 <p>
