@@ -83,7 +83,7 @@ Once signed in, you will be brought to a screen showing your current IP Address 
 
 **Verify VPN is Working**
 <p>
-Now that we've established a VPN connection, let's go back to the web browser and check our IP once more (www.whatsmyipaddress.com). Notice now that it is showing the new location we connected to. We are now browsing from this new location as if we were physically located there. Try www.google.com again. 
+Now that we've established a VPN connection, let's go back to the web browser and check our IP once more. Notice now that it is showing the new location we connected to. We are now browsing from this new location as if we were physically located there. Try www.google.com again. 
 <p>
 <p>
 <img src="https://i.imgur.com/1t61U8o.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
