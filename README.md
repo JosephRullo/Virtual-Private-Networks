@@ -109,8 +109,8 @@ Let's try switching VPN servers to demonstrate changing locations once more. Go 
 Once again go back to the web and check both websites to verify the change.
 <p>
 <p>
-<img src="https://i.imgur.com/6vDH9er.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/o1d7ik0.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MIRGgKp.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/IiAM3C0.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <br>
 
