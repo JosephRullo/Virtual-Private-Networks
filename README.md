@@ -114,5 +114,5 @@ Once again go back to the web and check both websites to verify the change.
 <img src="https://i.imgur.com/IiAM3C0.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <br>
-
+You can switch servers again if you like and try to view another regions local content that is not available where you're located, for example a movie streaming service. You can also purchase the full version of Proton VPN and gain many more optoins as well as locations all over the world to connect from. 
 <h2> <p align="center"> This concludes the Virtual Private Network demonstration, thanks for viewing.</h2>
