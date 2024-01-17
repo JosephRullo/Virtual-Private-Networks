@@ -51,7 +51,7 @@ For a walktrough of creating Azure Virtual Machines visit this link https://gith
 
 **Log in and Check your IP Address**
 <p>
-Log into the VM via Remote Desktop. Once Window's is done booting, open the web browser and go to this website www.whatismyipaddress.com. This will show you the actual IP Address and Region of the VM. Next try going to www.google.com and notice the native language of the region is displayed, in this case Japanese.
+Log into the VM via Remote Desktop. Once Window's is done booting, open the web browser and go to this website www.whatismyipaddress.com. This will show you the actual IP Address and region of the VM. Next try going to www.google.com and notice the native language of the region is displayed, in this case Japanese.
 <p>
 <p>
 <img src="https://i.imgur.com/QvpRM8Q.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
