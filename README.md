@@ -32,7 +32,7 @@
 For the example below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change the IP address and view yet anoter regions local content as if it physcially located there. The diagram below will illustrate this.
 <p>
 <p>
-<img src="https://i.imgur.com/NdcDaMC.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/iDp8ihx.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
   
 <h1>Implementation</h1>
 <br>
