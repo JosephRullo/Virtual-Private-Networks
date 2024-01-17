@@ -5,8 +5,6 @@
 <h1> <p align="center"> Virtual Private Network Connections</h1>
 <p align="center"> This tutorial outlines the implementation and connection to Virtual Private Networks and it's affect on IP addresses.<br />
 <br />
-<br />
-<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -29,7 +27,7 @@
 <p> Businesses also use remote access VPNs to establish a secure connection between their network and the devices used by remote workers. Once connected, employees are able to access the resources on the network just as if their devices were physically plugged in at the office.
 <br>  
 <br>
-For the example below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change the IP address and view yet anoter regions local content as if it physcially located there. The diagram below will illustrate this.
+For the demonstration below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change it's IP Address and location to view another regions local content as if it physcially located there. We'll switch locations once more and observe the changes. The diagram below will illustrate this.
 <p>
 <p>
 <img src="https://i.imgur.com/iDp8ihx.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
@@ -40,8 +38,10 @@ For the example below I will create a Virtual Machine in Microsoft Azure and ass
 
 **Create a Virtual Machine in Azure**
 <p>
-For this tutorial we will be demonstrating the VPN connection within a Virtual Machine (click here for a VM tutorial (https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking). Select a region outside of where you are located, in this example I've chosen Japan. Take note of the Public IP Address and Location on the VM overview page.
+Let's begin with creating our Virtual Machine in Azure. We'll select a region for it outside of where we're currently located, in this case I've chosen Japan. Once the VM is created, take note of the Public IP Address and Location on the VM overview page.
 <p>
+For a walktrough of creating Azure Virtual Machines visit this link https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking.
+<p> 
 <p>
 <img src="https://i.imgur.com/nVwElfM.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/8y5iyce.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
