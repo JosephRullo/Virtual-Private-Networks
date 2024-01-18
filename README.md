@@ -40,7 +40,7 @@ For the demonstration below I will create a Virtual Machine in Microsoft Azure a
 <p>
 Let's begin with creating our Virtual Machine in Azure. We'll select a region for it outside of where we're currently located, in this case I've chosen Japan. Once the VM is created, take note of the Public IP Address and Location on the VM overview page.
 <p>
-For a walktrough of creating Azure Virtual Machines visit this link https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking.
+For a walktrough of creating Azure Virtual Machines visit this link https://github.com/JosephRullo/Azure-Virtual-Machines-and-Networking/blob/main/README.md
 <p> 
 <p>
 <img src="https://i.imgur.com/nVwElfM.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
