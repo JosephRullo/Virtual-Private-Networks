@@ -27,7 +27,7 @@
 <p> Businesses also use remote access VPNs to establish a secure connection between their network and the devices used by remote workers. Once connected, employees are able to access the resources on the network just as if their devices were physically plugged in at the office.
 <br>  
 <br>
-For the demonstration below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change it's IP Address and location to view another regions local content as if it physcially located there. We'll switch locations once more and observe the changes. The diagram below will illustrate this.
+For the demonstration below I will create a Virtual Machine in Microsoft Azure and assign it a region in another country. Then I will demonstrate how a VPN can be used to change it's IP Address and location to view another regions local content as if it physically located there. We'll switch locations once more and observe the changes. The diagram below will illustrate this.
 <p>
 <p>
 <img src="https://i.imgur.com/iDp8ihx.png" alt="Microsoft Active Directory Logo"/> <height="60%" width="60%" alt="Disk Sanitization Steps"/> 
